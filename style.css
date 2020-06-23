@@ -76,7 +76,14 @@ li {
 
 .isi {
   height: 400px;
-  background-color: #ff0;
+  background-color: #f7f7f7
+}
+
+.heading {
+  padding-top: 40px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+  text-align: center;
 }
 
 .isi-bwah {
