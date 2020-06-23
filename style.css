@@ -170,3 +170,27 @@ li {
   text-decoration: underline;
   color: #f9ca24;
 }
+
+.web {
+  margin-top: 50px;
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 100px;
+}
+
+.web1 p {
+
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
