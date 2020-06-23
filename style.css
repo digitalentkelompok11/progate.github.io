@@ -76,14 +76,7 @@ li {
 
 .isi {
   height: 400px;
-  background-color: #f7f7f7
-}
-
-.heading {
-  padding-top: 40px;
-  padding-bottom: 50px;
-  color: #5f5d60;
-  text-align: center;
+  background-color: #ff0;
 }
 
 .isi-bwah {
@@ -98,9 +91,23 @@ li {
 }
 
 .akhir-logo {
+  animation: alertPulse 2.5s ease-out;
+  animation-iteration-count: infinite;
+  opacity: 0.8;
+  background: #ff7979;
   float: left;
   padding: 30px 30px;
   font-size: 30px;
+}
+
+.banner {
+  font-family: system-ui;
+  margin: 1rem;
+  border-radius: 100px;
+  font-size: 2.2rem;
+  color: white;
+  text-align: center;
+  padding: 1rem 3rem;
 }
 
 .akhir-menu {
