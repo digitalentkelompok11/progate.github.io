@@ -46,17 +46,17 @@ li {
 
 .menu {
   height: 500px;
-  background-color: green;
+  background-color: #fff;
 }
 
 .isi {
   height: 400px;
-  background-color: red;
+  background-color: #ff0;
 }
 
 .isi-bwah {
   height: 350px;
-  background-color: orange;
+  background-color: #fff;
 }
 
 .akhir {
