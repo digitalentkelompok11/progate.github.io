@@ -76,7 +76,45 @@ li {
 
 .isi {
   height: 400px;
-  background-color: #ff0;
+  background-color: #f7f7f7
+}
+/*---*/
+.heading {
+  padding-top: 40px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+  text-align: center;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+.message-wrapper{
+  border-bottom:1px solid #eee;
+  padding-bottom:80px;
+  text-align:center;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor:pointer;
+  box-shadow:0 7px #1a7940;
+}
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+.btn:hover {
+  opacity: 1;
 }
 
 .isi-bwah {
