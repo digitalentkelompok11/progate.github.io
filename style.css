@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #a4d;
+  color: white;
+}
+
+.logo {
+  float: left;
+  padding: 30px 25px;
+}
+
+.menu-atas {
+  float: right;
+  font-size: 15px;
+}
+
+.menu-atas li {
+  float: right;
+  padding: 30px 15px;
+}
+
+.menu {
+  height: 500px;
+  background-color: green;
+}
+
+.isi {
+  height: 400px;
+  background-color: red;
+}
+
+.isi-bwah {
+  height: 350px;
+  background-color: orange;
+}
+
+.akhir {
+  height: 150px;
+  background-color: black;
+}
