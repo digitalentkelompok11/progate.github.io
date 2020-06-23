@@ -29,6 +29,15 @@ li {
   font-size: 15px;
 }
 
+.menu-atas a{
+  float:right;
+}
+
+.menu-atas a:hover{
+  color:red;
+  border-bottom: 2px;
+}
+
 .menu-atas li {
   float: right;
   padding: 30px 15px;
